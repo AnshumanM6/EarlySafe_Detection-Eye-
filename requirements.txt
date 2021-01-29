@@ -1,0 +1,12 @@
+numpy
+tensorflow
+keras
+uvicorn
+fastapi
+opencv-python
+typing
+scipy
+scikit-image
+imutils
+jinja2
+aiofiles
